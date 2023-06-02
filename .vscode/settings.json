@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "i18n-ally.localesPaths": [
+    "locales"
+  ],
+  "cSpell.words": [
+    "Roboto"
+  ]
+}
